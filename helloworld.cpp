@@ -1,13 +1,8 @@
-//This is my first C++ program
+/*My first program to print a message*/
 
-#include<iostream>
-
+#include <iostream>
+using namespace std;
 int main()
 {
-    std::cout << "Hello world! "  << '\n';
-    std::cout << "This is my first C++ program ";
-    return 0;
+    cout<< "Hello world!\n" "This is my first C++ program  \n" ;
 }
-
-
-
